@@ -49,7 +49,7 @@ class TarecruitDashboard {
                 progress: 92,
                 rating: 4.8,
                 profileCompletion: 88,
-                avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+                avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
                 experience: "7 years",
                 qualifications: "MSc Computer Science, Full Stack Certification",
                 dailyRate: "£175",
